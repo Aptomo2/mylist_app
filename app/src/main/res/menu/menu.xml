@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuDelete"
+        android:title="Hapus"
+        app:actionViewClass="androidx.appcompat.widget.LinearLayoutCompat"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuEdit"
+        android:title="Ubah"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuComplete"
+        android:title="Selesai"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuAlarm"
+        android:title="Atur Alarm"
+        app:showAsAction="ifRoom" />
+</menu>

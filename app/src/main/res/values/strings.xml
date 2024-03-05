@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyList</string>
+    <string name="description">
+        "Aplikasi ini dibuat untuk memenuhi tugas akhir"
+        "penulisan ilmiah"
+    </string>
+    <string name="bg">https://aptomo.blogspot.com/</string>
+    <string name="fb">andang.ankar.3</string>
+    <string name="tw">aywantyou</string>
+    <string name="yt">UC2Qe2hoRO3sOW2qGE6fYqvQ</string>
+    <string name="ig">aptomo</string>
+</resources>
