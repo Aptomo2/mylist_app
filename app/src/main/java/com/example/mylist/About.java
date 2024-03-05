@@ -35,7 +35,7 @@ public class About extends AppCompatActivity {
     }
         private Element createCopyright() {
             Element copyright = new Element();
-            String copyrightString = String.format("Copyright %d by Andang Pratomo", Calendar.getInstance().get(Calendar.YEAR));
+            String copyrightString = String.format("Copyright %d", Calendar.getInstance().get(Calendar.YEAR));
             copyright.setTitle(copyrightString);
             copyright.setIconDrawable(R.drawable.copyright_24);
             copyright.setGravity(Gravity.CENTER);
